@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(189, 249, 229);
     text-align: center;
     margin-top: 20%;
 }
@@ -9,6 +9,6 @@ h1{
 }
 
 #par_impar{
-    background-color: rgb(242, 255, 0);
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(239, 244, 155);
+    font-family:'Times New Roman', Times, serif
 }
