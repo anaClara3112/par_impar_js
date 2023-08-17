@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    margin-top: 20%;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#par_impar{
+    background-color: rgb(242, 255, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
